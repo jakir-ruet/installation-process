@@ -1,7 +1,7 @@
 ### php Laravel application deployment on Ubuntu VPS
 Prerequisite
-- Apache2 Server
 - NodeJS
+- Apache2 Server
 - PHP (Latest version)
 - MySQL (Latest version)
 - PhpMyAdmin/MySQL Workbench
