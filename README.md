@@ -5,8 +5,7 @@
 ## Visit Us [Lapis Soft](http://www.lapissoft.com)
 
 ### Welcome to Installation Process
-
-
+An installation-process repository is an installation & configuration management application.
 
 ### Courtesy of Jakir
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
